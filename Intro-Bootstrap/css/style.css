@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fondamento';
+    src: url(./font/Fondamento-Regular.ttf);
+}
+
+body{
+    font-family: 'Fondamento';
+}
