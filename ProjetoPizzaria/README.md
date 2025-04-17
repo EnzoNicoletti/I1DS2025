@@ -1,5 +1,5 @@
-# 🍕 Dev Pizza's
-Bem-vindo ao repositório da "pizzaria", um site fictício desenvolvido para fins eduacionais, demonstrando habilidades em HTML, CSS e responsividade para o curso técnico de Desenvolivmento de Sistemas do SENAI.
+# 🃏 Kyde's TCG
+Bem-vindo ao repositório "Kyde's TCG", um site fictício desenvolvido para fins eduacionais, demonstrando habilidades em HTML, CSS e responsividade para o curso técnico de Desenvolivmento de Sistemas do SENAI.
 
 🔗 **Veja o site publicado:**
 [Google.com](https://google.com)
@@ -7,7 +7,7 @@ Bem-vindo ao repositório da "pizzaria", um site fictício desenvolvido para fin
 ---
 
 ## 📔 Descrição
-O site da "pizzaria", simula a presença online de uma pizzaria fictícia, com seções informativas, cardápio visual, galeria de fotos, localização e formas de contato.
+O site "Kyde's TCG", simula a presença online de uma loja de pokemon TCG, com seções informativas, lista de produtos, galeria de fotos, localização e formas de contato.
 
 Este projeto foi desenvolvido com o foco em:
 
